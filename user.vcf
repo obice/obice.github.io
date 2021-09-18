@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Obice;Jestoni;;;
+FN: Jestoni  Obice 
+TITLE:Fontend Developer
+EMAIL;type=INTERNET;type=WORK;type=pref:obicerjestoni@gmail.com
+TEL;type=WORK;type=VOICE:+639560332584
+item2.URL;type=pref:obice.github.io
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
